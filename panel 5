@@ -1,1 +1,4 @@
-
+nextrandom = true --UBAH JADI FALSE JIKA GAMAU JOIN RANDOM WORLD SEBELUM NEXT WORLD
+storagerandom = true --UBAH JADI FALSE JIKA GAMAU JOIN RANDOM WORLD SETELAH BALIK DARI STORAGE
+randomworld = {"sdqnwo2","dak0o1","sadoi30","skjdqi99r","sdma9dr","ndg9diqj","jqoirjr","dasmde0","iksnbjnh"} --BEBAS MAU BERAPA WORLD BOTNYA JOIN RANDOM
+delayrandomworld = 10000
